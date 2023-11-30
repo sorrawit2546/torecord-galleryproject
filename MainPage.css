@@ -73,7 +73,6 @@
     width: 332.38px;
     border-radius: 50px;
     border-width: 5px;
-    border-color: #000000;
    
 }
 
@@ -81,7 +80,7 @@
     margin-top: 50px;
     margin-left: 50px;
     margin-right: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
     height: 231.77px;
     width: 332.38px;
     
@@ -93,18 +92,24 @@
     border-radius: 50px;
     border-width: 3px;
     border-style: solid;
+    border-color: rgba(240, 248, 255, 0.764);
+}
+
+.Alabum-1 > img:hover{
+    box-shadow: 1px 1px 40px rgb(200, 255, 0);
 }
 
 
 .Alabum-1 > button {
     font-weight: bolder;
-    margin-top: 20px;
+    margin-top: 40px;
     margin-left: 65px;
     width: 197.63px;
     height: 53.90px;
-    background: white;
+    background: rgba(255, 255, 255, 0.739);
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.50);
     border-radius: 100px;
+    border-style: none
 }
 
 .Alabum-1 > button:hover {
