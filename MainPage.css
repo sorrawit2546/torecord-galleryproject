@@ -4,7 +4,7 @@
         background-repeat: no-repeat;
         background-attachment: fixed;
 }
- /* Navbar CSS */
+ 
  nav {
     background-color: rgba(255, 255, 255, 0.853);
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* เพิ่มเงาให้ Navbar */
