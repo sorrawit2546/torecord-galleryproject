@@ -25,7 +25,9 @@
     margin-top: 16px;
     width: 147px; height: 50px; background: #ABE600; border-radius: 30px; border: 2px black solid"
 }
-
+.logo{
+    margin-left: 70px;
+}
 .logo > img{
     margin-top: 8px;
     width: 70px; 
@@ -92,7 +94,8 @@
     border-radius: 50px;
     border-width: 3px;
     border-style: solid;
-    border-color: rgba(240, 248, 255, 0.764);
+    border-color: rgb(240, 248, 255);
+    box-shadow: 1px 1px 18px rgba(255, 255, 255, 0.557);
 }
 
 .Alabum-1 > img:hover{
@@ -157,4 +160,12 @@ nav ul li a {
     text-decoration: none;
     color: #000000; /* สีข้อความใน Navbar */
     font-weight: bold;
+}
+
+.GALLERY-FONT{
+    font-size: 32px;
+    font-weight: bolder;
+    font-family: 'Archivo Black', sans-serif;
+    margin-top: 25px;
+    margin-bottom: 0;
 }
