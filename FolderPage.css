@@ -193,3 +193,20 @@ li > a{
     padding-bottom: 10px;
     font-weight: bolder;
 }
+
+.pic-of-sun{
+    display: flex;
+    border-color: #000;
+    border-width: 2px;
+    border-style: solid;
+    height: 200px;
+    width: 80px;
+    margin-bottom: 50px;
+    margin-left: 130px;
+}
+
+.pic-of-sun > img {
+    margin-left: 650px;
+    width: 100%;
+    height: 100%;
+}
